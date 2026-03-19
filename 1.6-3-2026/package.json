@@ -1,0 +1,8 @@
+{
+  "scripts": {
+     "dev":"node --watch ./src/" 
+},
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
