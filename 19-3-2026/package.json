@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "Um nome:)": "node --watch ./src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
